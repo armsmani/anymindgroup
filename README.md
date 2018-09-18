@@ -44,4 +44,4 @@ Create Twitter Developer Account:
      access_token_secret =   "Pp9SnxoiVuncgpAJ7RHY804aJgT0fiDiHwNPQQxSBT9Xo" < your access token secret>
  
 Running Project:
-python app.py
+  python app.py
